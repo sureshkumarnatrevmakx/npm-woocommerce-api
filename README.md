@@ -3,7 +3,7 @@ Connects NodeJS to the WooCommerce API even though permalink doesnt in active st
 
 ## Speciality of this module
 
-In this npm module we added an option "permalink". It will help you to mention and inform to the wordpress api to provide restfull api with endpoints or non restfull api with endpoints.
+In this npm module we added an option "permalink". It will help you to mention and inform to the wordpress api to provide restfull api with endpoints or non restfull api with endpoints based on "permalink" option. If you set "permalink" as "plain" (that is inactive) in your wordpress website, existing npm modules for woocommerce api wont work. But, npm-woocommerce-api will work perfectly even though you set "permalink" as "plain" in your wordpress website.
 
 ## Installation
 
