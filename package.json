@@ -1,0 +1,72 @@
+{
+  "name": "npm-woocommerce-api",
+  "version": "1.0.0",
+  "description": "Connects NodeJS to the WooCommerce API even though permalink doesnt in active state.",
+  "main": "lib/npm-woocommerce-api.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sureshkumarnatrevmakx/npm-woocommerce-api.git"
+  },
+  "keywords": [
+    "woocommerce",
+	"woocom",
+	"wordpress",
+	"permalink",
+	"wordpress-permailink",
+	"wordpresspermailink",
+	"rest",
+	"REST",
+	"woocommerce-rest",
+	"woocommercerest",
+	"woocommerce-REST",
+	"wordpress-rest",
+	"wordpress-REST",
+	"wordpressrest",
+	"wordpressREST",
+	"wordpress-rest-api",
+	"wordpress-REST-api",
+	"wordpress-REST-API",
+	"wordpressrestapi",
+	"wordpressRESTapi",
+	"wordpressRESTAPI",	
+	"woocommerce-api",
+	"woocommerceapi",
+    "woo",
+    "woothemes",
+	"sureshkumar",
+	"sureshkumarnagarajan",
+    "api",
+    "API",
+    "wc",
+	"commerce",
+	"wordpress commerce",
+	"wordpress-commerce",	
+	"wordpresscommerce",
+	"wordpress woocommerce",
+	"wordpress-woocommerce",
+	"wordpress-woocommerce-api",
+	"wordpress woocommerce api",
+	"wordpresswoocommerceapi",
+	"wordpress shopping cart",
+	"wordpress-shopping-cart",
+	"wordpressshoppingcart"	
+  ],
+  "author": {
+    "name": "sureshkumarnagarajanmca",
+    "email": "sureshkumarnagarajanmca@gmail.com",
+    "url": "https://www.facebook.com/munaivendri.naa.sureshkumar"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sureshkumarnatrevmakx/npm-woocommerce-api/issues"
+  },
+  "homepage": "https://github.com/sureshkumarnatrevmakx/npm-woocommerce-api",
+  "devDependencies": {},
+  "dependencies": {
+    "oauth-1.0a": "^1.0.1",
+    "request": "^2.67.0"
+  }
+}
