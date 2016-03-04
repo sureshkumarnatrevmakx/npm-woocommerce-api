@@ -46,9 +46,11 @@ When instantiating the NPMWooCommerceAPI object you have a choice of the followi
 | apiPath     | string  | no       | (default: '/wc-api/v2') The path to your API, it should contain a leading slash and no trailing slash                               |
 | permalink   | number  | no       | (default: 1) 1: active, 0: inactive (default: 1). If your store is having permalink as "Plain", you should use this option with the value as 0. Then only, you can get valid response which consists the required data. Because, based on wordpress permalink active state, rest api will work. If wordpress permalink set as "Plain", rest api wont work and woocommerce api will give an error message. 
 
-For your reference, kindly see the following screenshot.
+**For your reference, kindly see the following screenshot.
 
-![Wordpress permalink inactive state](https://2.bp.blogspot.com/-6nRkpha2TUU/VtmCQ2rZmgI/AAAAAAAADdc/X4LI6HXl6Oo/s1600/permalink-inactive-state.png)
+This screenshot depicts about "permalink" inactive state.
+
+![Wordpress permalink inactive state](https://2.bp.blogspot.com/-6nRkpha2TUU/VtmCQ2rZmgI/AAAAAAAADdc/X4LI6HXl6Oo/s1600/permalink-inactive-state.png "Permalink inactive state")
 
 ## Calling the API
 

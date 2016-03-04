@@ -1,6 +1,6 @@
 {
   "name": "npm-woocommerce-api",
-  "version": "1.0.2-0",
+  "version": "1.0.3",
   "description": "Connects NodeJS to the WooCommerce API even though permalink doesnt in active state.",
   "main": "lib/npm-woocommerce-api.js",
   "scripts": {
