@@ -1,6 +1,6 @@
 {
   "name": "npm-woocommerce-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Connects NodeJS to the WooCommerce API even though permalink doesnt in active state.",
   "main": "lib/npm-woocommerce-api.js",
   "scripts": {
@@ -68,5 +68,25 @@
   "dependencies": {
     "oauth-1.0a": "^1.0.1",
     "request": "^2.67.0"
-  }
+  },
+  "_id": "npm-woocommerce-api@1.0.5",
+  "_shasum": "",
+  "_from": "node_modules\\npm-woocommerce-api",
+  "_npmUser": {
+    "name": "sureshkumarnagarajanmca",
+    "email": "sureshkumarnagarajanmca@gmail.com"
+  },
+  "gitHead": "",  
+  "dist": {
+    "shasum": "",
+    "tarball": "http://registry.npmjs.org/npm-woocommerce-api/-/npm-woocommerce-api-1.0.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sureshkumarnagarajanmca",
+      "email": "sureshkumarnagarajanmca@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "file:node_modules\\npm-woocommerce-api"  
 }
